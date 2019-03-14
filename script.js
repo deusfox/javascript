@@ -44,7 +44,6 @@ console.log(a)
 let incr = 10,
     decr = 110;
 
-
 console.log(incr++)
 console.log(decr--)
 
